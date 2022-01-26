@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohan1203
+- 👋 Hi, I’m @Mohan
 - 👀 I’m interested in web development and c
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on fellow programmer
