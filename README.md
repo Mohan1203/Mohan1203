@@ -15,7 +15,7 @@
 
 💻 MERN Stack Developer passionate about creating modern and scalable web applications.
 
-🏢 Currently working at **Wetram**
+🏢 Currently working at **Wrteam**
 
 🌱 Exploring advanced backend architecture and performance optimization.
 
